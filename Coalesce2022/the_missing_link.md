@@ -52,3 +52,7 @@ Main idea : either the engineer has to basically own the process or the product 
 ![](2022-10-19-16-41-16.png)
 
 > Lesson 4 : `Analytics Designers` are the best at tackling complex problems
+
+
+### Summarized
+![](2022-10-19-16-46-42.png)
